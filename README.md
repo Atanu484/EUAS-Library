@@ -1,7 +1,7 @@
-As a user, I can upload books so that others can see and take the book.
+As a human resources manager, I want to add new employees to the system, so I can maintain an up-to-date employee database.
 
-As a user, I can edit books so that others can use the latest release version.
+As a human resources manager, I want to view a list of all employees in the system, so I can quickly access and manage employee information.
 
-As a user, I can mark if the book has been taken or not, so that others see the option of taking the book.
+As a human resources manager, I want to edit employee information, so I can keep employee records updated and accurate.
 
-As a user, I can delete the books so that the book is no longer is prsent in the system.
+As a human resources manager, I want to delete employee records, so I can remove employees who are no longer with the company from the system
